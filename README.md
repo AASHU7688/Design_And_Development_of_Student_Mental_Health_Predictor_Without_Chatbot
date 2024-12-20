@@ -1,6 +1,4 @@
-# Design_And_Development_of_Student_Mental_Health_Predictor_Without_Chatbot
-
-# Design_and_Development_of_Student_Mental_Health_Predictor
+# Design_and_Development_of_Student_Mental_Health_Predictor_Wihout_Chatbot
 This project aims to address the growing concern of mental health among students by providing a machine learning-based web application that predicts the mental health condition of students based on various parameters. The application is designed to offer insights that can assist students, parents, and professionals in taking proactive steps towards mental wellness.
 
 # Features
